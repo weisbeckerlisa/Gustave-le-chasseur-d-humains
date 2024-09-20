@@ -1,12 +1,3 @@
-Gym_1 : Appuyez sur F pour Dash.
-Gym_2 : Appuyez sur E pour tirer.
-Gym_3 : Tirez sur l'ennemi pour constater qu'il ne prend pas de dégâts, et qu'il recule à l'impact.
-Gym_4 : Tirez sur l'ennemi et faites-vous tirer dessus pour constater l'évolution de la barre de vie et la mort.
-Gym_5 : Tuez les ennemis pour constater l'évolution du compteur d'unité spectrale, tuez tous les ennemis pour finir le niveau.
-Appuyez sur R pour continuer, débloquez une compétence et constatez l'évolution du compteur d'unité spectrale.
-Revenez à la scène à partir de l'arbre de compétences en cliquant sur la flèche en haut à gauche, et notez que le compteur garde la valeur.
-Gym_6 : Répétez les mêmes étapes que Gym_5 mais constatez que vous pouvez utiliser les compétences achetées.
-Gym_7 : Lancez l'âme avec un clic gauche vers l'ennemi qui se situe en haut à droite du niveau, constatez que vous prenez le contrôle de cet ennemi.
-Gym_8 : Idem, et constatez que lorsque le compteur de rebonds arrive à zéro, vous perdez la partie. Faites également varier la puissance en maintenant le clic avant de lancer l'âme.
-Gym_9 : Prenez l'aggro en allant devant un personnage, fuyez au-dessus de lui et constatez qu'il perd l'aggro après 5 secondes.
-Gym_10 : Brisez les boîtes en tirant dessus avec E, et marchez sur la potion pour récupérer de la vie.
+2.5D Platformer game developped on Unity
+You play as Ghost named Gustave, trying to protect his Castle from an evil renovation Company.
+With the power of controlling humans, eliminate all ennemies to complete levels.
